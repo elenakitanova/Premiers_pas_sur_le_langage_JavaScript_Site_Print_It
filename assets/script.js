@@ -16,8 +16,7 @@ const slides = [
 		"tagLine":"Autocollants <span>avec découpe laser sur mesure</span>"
 	}
 ]
-<<<<<<< HEAD
-=======
+
 
 // Rajout complémentaire 
 
@@ -71,4 +70,3 @@ function updateSlide(index) {
 
 updateSlide(currentIndex); // Affiche le premier slide au démarrage
 
->>>>>>> 29c3fec (Premier commit - projet Print It)
